@@ -1,0 +1,23 @@
+<!-- DOCTYPE HTML -->
+<html>
+  <head>
+
+  </head>
+
+  <body>
+    <!--
+    Mengisi <a href='/posts/{{i.id}}'>{{i.title}}</a>
+    /posts/id/</br>
+    -->
+    {% for i in object_list %}
+    <!-- {% url "posts:post_retrieve" id=i.id %}-->
+      <a href='{{i.get_absolute_url}}'>{{ i.title }}<br/></a>
+      {{ i.content }}<br/>
+      {{ i.updated }}<br/>
+      {{ i.timestamp }}<br/>
+      {{ i.id }}<br/>
+        <br/>
+    {% endfor %}
+  </body>
+
+</html>

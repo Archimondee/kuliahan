@@ -1,0 +1,27 @@
+<!-- DOCTYPE HTML -->
+<html>
+  <head>
+
+  </head>
+
+  <body>
+    {% if messages %}
+     <ul class="messages">
+         {% for message in messages %}
+         <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>
+              {% if "html_safe" in message.tags %}{{ message|safe }}{% else %}{{ message }}{% endif %}</li>
+         {% endfor %}
+     </ul>
+     {% endif %}
+
+    <h1>{{ title }} </h1>
+
+      {{ instance.title }}<br/>
+      {{ instance.content }}<br/>
+      {{ instance.updated }}<br/>
+      {{ instance.timestamp }}<br/>
+      {{ instance.id }}<br/>
+      <br/>
+  </body>
+
+</html>
