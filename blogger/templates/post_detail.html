@@ -11,7 +11,7 @@
   {% if instance.image %}
     <img src='{{instance.image.url}}' width="640" height='480' class='img-responsive' />
   {% endif %}
-<h1>{{ title }} <small> {{instance.timestamp}}</small></h1>
+<h1>{{ title }} <small> {{instance.publish}} {% if instance.draft %} <span style="color:red"> Draft </span> {% endif %}</h1></small>
 {% if instance.user.get_full_name %} <p> Author : {{instance.user.get_full_name}} </p> {% endif %}
 <hr>
 <div class="fb-like" data-href="{{ request.get_absolute_url}}" data-layout="button" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
