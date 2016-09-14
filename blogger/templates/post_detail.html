@@ -1,27 +1,32 @@
-<!-- DOCTYPE HTML -->
-<html>
-  <head>
+{% extends "base.html" %}
+{% load urllify %}
+{% block head_title %}
+{{ instance.title }} | {{ block.super }}
+{% endblock head_title %}
 
-  </head>
-
-  <body>
-    {% if messages %}
-     <ul class="messages">
-         {% for message in messages %}
-         <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>
-              {% if "html_safe" in message.tags %}{{ message|safe }}{% else %}{{ message }}{% endif %}</li>
-         {% endfor %}
-     </ul>
-     {% endif %}
-
-    <h1>{{ title }} </h1>
-
-      {{ instance.title }}<br/>
-      {{ instance.content }}<br/>
-      {{ instance.updated }}<br/>
-      {{ instance.timestamp }}<br/>
-      {{ instance.id }}<br/>
-      <br/>
-  </body>
-
-</html>
+{% block content %}
+<p></p>
+<p></p>
+<div class='col-sm-6 col-sm-offset-3'>
+  {% if instance.image %}
+    <img src='{{instance.image.url}}' width="640" height='480' class='img-responsive' />
+  {% endif %}
+<h1>{{ title }} <small> {{instance.timestamp}}</small></h1>
+{% if instance.user.get_full_name %} <p> Author : {{instance.user.get_full_name}} </p> {% endif %}
+<hr>
+<div class="fb-like" data-href="{{ request.get_absolute_url}}" data-layout="button" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+<!--|
+<a href="https://twitter.com/home?status=
+{{instance.content|truncatechars:120|urlify}}%20{{ request.build_absolute_uri}}">
+Twitter
+</a>
+|
+<a href='https://plus.google.com/share?url={{ request.get_absolute_url}}'> Google+ </a>
+-->
+<hr>
+{{ instance.content|linebreaks}}<br/>
+<hr>
+<div class="fb-comments" data-href="{{ request.get_absolute_url}}" data-numposts="5"></div>
+<hr>
+</div>
+{% endblock content %}
