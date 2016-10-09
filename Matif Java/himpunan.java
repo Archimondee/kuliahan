@@ -1,5 +1,5 @@
 import java.util.*;
-class menu_matif{
+class tugas_firda{
 	void himpunan(){
 		int jumA, jumB, i, j;
 		Scanner ini_himpunan = new Scanner(System.in);
@@ -23,7 +23,7 @@ class menu_matif{
 		System.out.println();
 		int k,l;
 
-		System.out.println("======= Diketahui bahwa ======="); //Ganti
+		System.out.println("======= Diketahui bahwa =======");
 		System.out.print("Himpunan A = { ");
 		for(k=1;k<=jumA;k++){
 			System.out.print(himpA[k]+", ");
@@ -37,7 +37,7 @@ class menu_matif{
 		System.out.println(" } ");
 
 		//Gabungan
-		System.out.println("======== Dengan Hasil ========="); //Ganti
+		System.out.println("======== Dengan Hasil =========");
 		System.out.print("Gabungan = { ");
 		for (i=1; i<=jumA;i++){
 			System.out.print(himpA[i]+" ,");
@@ -71,7 +71,8 @@ class menu_matif{
 	public static void main(String[]args){
 		System.out.println("====== Menu Matif ======");
 		System.out.println("");
-		menu_matif ini = new menu_matif();
+		tugas_firda ini = new tugas_firda();
 		ini.himpunan();
+
 	}
 }
