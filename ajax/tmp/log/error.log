@@ -1,0 +1,1048 @@
+[13-Dec-2016 15:06:39 Europe/Berlin] PHP Notice:  Undefined variable: DEVELOPMENT_ENVIRONMET in D:\xampp\htdocs\framework\public\index.php on line 11
+[13-Dec-2016 15:07:17 Europe/Berlin] PHP Notice:  Undefined variable: DEVELOPMENT_ENVIRONMET in D:\xampp\htdocs\framework\public\index.php on line 11
+[13-Dec-2016 15:07:49 Europe/Berlin] PHP Notice:  Undefined variable: DEVELOPMENT_ENVIRONMET in D:\xampp\htdocs\framework\public\index.php on line 11
+[10-Jan-2017 13:12:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting '{' in D:\xampp\htdocs\framework\application\controllers\produkController.php on line 3
+[12-Jan-2017 03:25:15 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\crud\public\index.php on line 51
+[12-Jan-2017 03:25:16 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\crud\public\index.php on line 51
+[12-Jan-2017 03:39:28 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:39:31 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:39:31 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:39:32 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:39:38 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:39:49 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:39:55 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:39:56 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:40:10 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:40:26 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:40:27 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:40:27 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:40:27 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:41:09 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:41:10 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 03:41:26 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:28:08 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:28:59 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:29:51 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 4
+[12-Jan-2017 09:29:52 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 4
+[12-Jan-2017 09:29:54 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 4
+[12-Jan-2017 09:29:54 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 4
+[12-Jan-2017 09:30:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:30:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:30:22 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:30:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:30:28 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:30:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:30:50 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:30:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:30:51 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:30:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:02 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:10 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:11 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:12 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:57 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:58 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'ROOT' has no effect in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:31:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:32:31 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 5
+[12-Jan-2017 09:32:32 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 5
+[12-Jan-2017 09:38:07 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:38:09 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:41:21 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:41:24 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:43:21 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:43:22 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:43:24 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:43:33 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:43:34 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:44:08 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:44:12 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:44:15 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:44:28 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:44:28 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:45:11 Europe/Berlin] PHP Fatal error:  Function name must be a string in D:\xampp\htdocs\crud\public\index.php on line 37
+[12-Jan-2017 09:45:13 Europe/Berlin] PHP Fatal error:  Function name must be a string in D:\xampp\htdocs\crud\public\index.php on line 37
+[12-Jan-2017 09:45:21 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:45:23 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:45:38 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:45:39 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:49:53 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:49:54 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:49:55 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:52:10 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 40
+[12-Jan-2017 09:52:10 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 42
+[12-Jan-2017 09:52:10 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:52:12 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 40
+[12-Jan-2017 09:52:12 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 42
+[12-Jan-2017 09:52:12 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:52:29 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 41
+[12-Jan-2017 09:52:29 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 43
+[12-Jan-2017 09:52:29 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:52:30 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 41
+[12-Jan-2017 09:52:30 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 43
+[12-Jan-2017 09:52:30 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:52:31 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 41
+[12-Jan-2017 09:52:31 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 43
+[12-Jan-2017 09:52:31 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:52:41 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:52:42 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:52:43 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:52:46 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:52:49 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:52:49 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:53:04 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:53:05 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:53:06 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:53:35 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:53:41 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 42
+[12-Jan-2017 09:53:41 Europe/Berlin] PHP Warning:  array_shift() expects parameter 1 to be array, null given in D:\xampp\htdocs\crud\public\index.php on line 44
+[12-Jan-2017 09:53:41 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:53:43 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:53:46 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:53:48 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:54:09 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:54:10 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:54:14 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:54:18 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:54:27 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:54:49 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:54:53 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:54:59 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:55:02 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:55:41 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:55:43 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:55:56 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:55:57 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:56:01 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:56:06 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:56:49 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:56:50 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:56:52 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:56:58 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:57:26 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:57:27 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 09:57:30 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:57:44 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:57:52 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:57:53 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:58:41 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:58:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected '/', expecting \\ (T_NS_SEPARATOR) or ';' or '{' in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:59:01 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 3
+[12-Jan-2017 09:59:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting \\ (T_NS_SEPARATOR) or ';' or '{' in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:59:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting \\ (T_NS_SEPARATOR) or ';' or '{' in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 09:59:50 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 09:59:50 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 09:59:51 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 09:59:51 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:07:21 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:07:21 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:07:22 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:07:23 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:07:24 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:07:26 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:07:27 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:08:00 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:08:00 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 4
+[12-Jan-2017 10:08:17 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\public\index.php on line 47
+[12-Jan-2017 10:08:18 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\public\index.php on line 47
+[12-Jan-2017 10:08:39 Europe/Berlin] PHP Fatal error:  Class 'Model' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 10:08:48 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 10:08:49 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 10:09:19 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 10:09:20 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 10:09:21 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 10:09:34 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 10:09:35 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in D:\xampp\htdocs\crud\application\controllers\mainController.php on line 2
+[12-Jan-2017 10:16:12 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 3
+[12-Jan-2017 10:16:12 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 3
+[12-Jan-2017 10:16:13 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 3
+[12-Jan-2017 10:16:16 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 3
+[12-Jan-2017 10:16:21 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 3
+[12-Jan-2017 10:16:36 Europe/Berlin] PHP Fatal error:  Undefined constant 'application\controllers\MainController' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:17:40 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\mainController' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 3
+[12-Jan-2017 10:17:41 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\mainController' not found in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 3
+[12-Jan-2017 10:17:50 Europe/Berlin] PHP Fatal error:  Undefined constant 'application\controllers\mainController' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:17:51 Europe/Berlin] PHP Fatal error:  Undefined constant 'application\controllers\mainController' in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'oke' (T_STRING) in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 5
+[12-Jan-2017 10:18:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'oke' (T_STRING) in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 5
+[12-Jan-2017 10:18:15 Europe/Berlin] PHP Warning:  require_once(D:\xampp\htdocs\crudapplication/controllers/mainController): failed to open stream: No such file or directory in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:15 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'D:\xampp\htdocs\crudapplication/controllers/mainController' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:16 Europe/Berlin] PHP Warning:  require_once(D:\xampp\htdocs\crudapplication/controllers/mainController): failed to open stream: No such file or directory in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:16 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'D:\xampp\htdocs\crudapplication/controllers/mainController' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:16 Europe/Berlin] PHP Warning:  require_once(D:\xampp\htdocs\crudapplication/controllers/mainController): failed to open stream: No such file or directory in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:16 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'D:\xampp\htdocs\crudapplication/controllers/mainController' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:30 Europe/Berlin] PHP Warning:  require_once(D:\xampp\htdocs\crudapplication/controllers/mainController.php): failed to open stream: No such file or directory in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:30 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'D:\xampp\htdocs\crudapplication/controllers/mainController.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:30 Europe/Berlin] PHP Warning:  require_once(D:\xampp\htdocs\crudapplication/controllers/mainController.php): failed to open stream: No such file or directory in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:30 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'D:\xampp\htdocs\crudapplication/controllers/mainController.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:31 Europe/Berlin] PHP Warning:  require_once(D:\xampp\htdocs\crudapplication/controllers/mainController.php): failed to open stream: No such file or directory in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:31 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'D:\xampp\htdocs\crudapplication/controllers/mainController.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:31 Europe/Berlin] PHP Warning:  require_once(D:\xampp\htdocs\crudapplication/controllers/mainController.php): failed to open stream: No such file or directory in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:18:31 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'D:\xampp\htdocs\crudapplication/controllers/mainController.php' (include_path='.;D:\xampp\php\PEAR') in D:\xampp\htdocs\crud\application\controllers\produkController.php on line 2
+[12-Jan-2017 10:39:29 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'MainController' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 10:39:29 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 10:39:30 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'MainController' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 10:39:30 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 10:39:30 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'MainController' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 10:39:30 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 10:39:30 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'MainController' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 10:39:30 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 10:39:31 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'MainController' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 10:39:31 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 10:57:30 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'MainController' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 10:57:30 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:00:00 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'MainController' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 11:00:00 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:00:01 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'MainController' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 11:00:01 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:00:01 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'MainController' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 11:00:01 Europe/Berlin] PHP Fatal error:  Class 'MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:01:30 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'application' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 11:01:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected '/', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 11:01:31 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'application' has no effect in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 11:01:31 Europe/Berlin] PHP Parse error:  syntax error, unexpected '/', expecting ',' or ';' in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 11:02:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected '/', expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 11:02:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected '/', expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 2
+[12-Jan-2017 11:03:54 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:03:55 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:03:55 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:03:56 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:03:56 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:03:56 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 11:06:27 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 11:06:28 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 11:06:58 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 11:07:05 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 11:07:55 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 11:08:09 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 12:19:58 Europe/Berlin] PHP Fatal error:  Undefined constant 'application\controllers' in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 2
+[12-Jan-2017 12:19:59 Europe/Berlin] PHP Fatal error:  Undefined constant 'application\controllers' in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 2
+[12-Jan-2017 12:19:59 Europe/Berlin] PHP Fatal error:  Undefined constant 'application\controllers' in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 2
+[12-Jan-2017 12:20:08 Europe/Berlin] PHP Warning:  The use statement with non-compound name 'Conroller' has no effect in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 3
+[12-Jan-2017 12:20:08 Europe/Berlin] PHP Fatal error:  Undefined constant 'application\controllers' in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 2
+[12-Jan-2017 12:20:13 Europe/Berlin] PHP Fatal error:  Undefined constant 'application\controllers' in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 2
+[12-Jan-2017 12:20:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) or '{' in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 2
+[12-Jan-2017 12:20:43 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR) or '{' in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 2
+[12-Jan-2017 12:22:31 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 12:22:32 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 12:22:32 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 12:22:48 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 12:22:49 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 12:22:49 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 12:22:50 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 4
+[12-Jan-2017 12:24:14 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 12:24:15 Europe/Berlin] PHP Fatal error:  Class 'application\controllers\MainController' not found in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 3
+[12-Jan-2017 12:31:04 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:31:05 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:31:06 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:31:06 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:31:15 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:31:15 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:31:16 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:33:10 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:33:11 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:33:27 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:33:28 Europe/Berlin] PHP Fatal error:  Call to a member function show() on a non-object in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 6
+[12-Jan-2017 12:34:51 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:35:05 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:35:06 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:35:20 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:35:40 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:35:40 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:35:40 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:35:40 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:35:40 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:35:42 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:35:42 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:35:42 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:35:42 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:35:42 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:35:43 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:35:43 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:35:43 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:35:43 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:35:43 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:35:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:35:44 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:35:44 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:35:44 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:35:44 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:36:35 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:36:35 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:36:35 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:36:35 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:36:35 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:37:41 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:37:41 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:37:41 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:37:41 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:37:41 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:38:36 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:38:36 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:38:36 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:38:36 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:38:36 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 11
+[12-Jan-2017 12:38:36 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:38:37 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:38:37 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:38:37 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:38:37 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:38:37 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 11
+[12-Jan-2017 12:38:37 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:38:55 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:38:55 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:38:55 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:38:55 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:38:55 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:41:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:41:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:41:49 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:41:49 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:41:49 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:41:50 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:41:50 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:41:50 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:41:50 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:41:50 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:41:51 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:41:51 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 28
+[12-Jan-2017 12:41:51 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:41:51 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:41:51 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:43:50 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:43:50 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 29
+[12-Jan-2017 12:43:50 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:43:50 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:43:50 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:45:04 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:45:04 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:45:04 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:45:04 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:45:04 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:45:05 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:45:05 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:45:05 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:45:05 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:45:05 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:45:29 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:45:29 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:45:29 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:45:29 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:45:29 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:45:40 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:45:40 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 24
+[12-Jan-2017 12:45:40 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:45:40 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:45:40 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:46:00 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:46:00 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 24
+[12-Jan-2017 12:46:00 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:46:00 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:46:00 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:46:01 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:46:01 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 24
+[12-Jan-2017 12:46:01 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:46:01 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:46:01 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:46:58 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:46:58 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 24
+[12-Jan-2017 12:46:58 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:46:58 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:46:58 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:15 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:15 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:15 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:15 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:15 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:15 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:15 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:16 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:16 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:16 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:16 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:16 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:16 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:16 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:17 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:29 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:29 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:29 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:29 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:29 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:29 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:29 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:30 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:30 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:30 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:30 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:30 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:30 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:30 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:31 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:44 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:44 Europe/Berlin] PHP Notice:  Undefined index: viewName in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:44 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:44 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:44 Europe/Berlin] PHP Notice:  Undefined index: viewName in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:44 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:48:52 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:48:52 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:48:52 Europe/Berlin] PHP Notice:  Array to string conversion in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:52 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:48:52 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:48:52 Europe/Berlin] PHP Notice:  Array to string conversion in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:48:52 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:49:01 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:49:01 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:49:01 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:01 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:49:01 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:49:01 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:01 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:49:03 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:49:03 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:49:03 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:03 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:49:03 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:49:03 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:03 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:49:06 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:49:06 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:49:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:06 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:49:06 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:49:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:06 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined index: viewName in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined index: viewName in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined index: viewName in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Notice:  Undefined index: viewName in D:\xampp\htdocs\crud\library\view.class.php on line 16
+[12-Jan-2017 12:49:56 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:50:11 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:50:11 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:50:11 Europe/Berlin] PHP Notice:  Undefined variable: viewName in D:\xampp\htdocs\crud\application\views\template.php on line 9
+[12-Jan-2017 12:50:11 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\views\template.php on line 10
+[12-Jan-2017 12:50:11 Europe/Berlin] PHP Fatal error:  Call to undefined method ProdukController::bind() in D:\xampp\htdocs\crud\application\controllers\MainController.php on line 5
+[12-Jan-2017 12:51:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:51:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:52:09 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:52:09 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 25
+[12-Jan-2017 12:52:28 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:52:28 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 24
+[12-Jan-2017 12:52:36 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:52:36 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:56:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:56:45 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:56:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 12:56:47 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:56:47 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:56:47 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 12:56:47 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:56:47 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:56:47 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 12:57:56 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:57:56 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:57:56 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 12:57:57 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:57:57 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:57:57 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 12:57:57 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:57:57 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:57:57 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 12:57:57 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:57:57 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:57:57 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 12:57:58 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:57:58 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:57:58 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 12:57:58 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:57:58 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:57:58 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 12:58:09 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:58:09 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:58:09 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 12:58:09 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:58:09 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:58:09 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 12:59:12 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:59:12 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:59:12 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 12:59:13 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:59:13 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:59:13 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 12:59:13 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:59:13 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 12:59:13 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 12:59:23 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 12:59:23 Europe/Berlin] PHP Catchable fatal error:  Object of class ProdukModel could not be converted to string in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 7
+[12-Jan-2017 13:00:27 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:00:27 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:00:27 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:06:01 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:06:01 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:06:02 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:06:02 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:06:24 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:06:24 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:06:24 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:06:35 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:06:35 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:06:35 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:06:36 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:06:36 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:06:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:06:36 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:06:36 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:06:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:14:49 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 7
+[12-Jan-2017 13:14:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:14:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:15:21 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:15:21 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:15:33 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:15:33 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:15:48 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:15:48 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:15:48 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:15:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:15:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:15:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:15:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:15:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:15:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:16:03 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:16:03 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:16:03 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:16:04 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:16:04 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:16:04 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:17:28 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:17:28 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:17:29 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:17:29 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:06 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:06 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:06 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:07 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:07 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:24 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:24 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:24 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:24 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:25 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:25 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:25 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:25 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:53 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:53 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:53 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:53 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:54 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:18:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:45:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:45:38 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:45:39 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:45:39 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:45:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:45:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:45:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:45:50 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:45:50 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:45:50 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:45:58 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:45:58 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:47:31 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:47:31 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:47:32 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:47:32 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:47:43 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:47:43 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:47:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:47:44 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:47:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:47:44 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:47:52 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:47:52 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:47:52 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:47:59 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:47:59 Europe/Berlin] PHP Fatal error:  Call to undefined function getResult() in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 13:48:16 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:48:16 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:48:16 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:48:17 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:48:17 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:48:17 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:48:17 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:48:17 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:48:17 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:49:37 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:49:37 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_fetech_array() in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:49:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:49:38 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_fetech_array() in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:49:52 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:49:52 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:49:52 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:49:58 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:49:58 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_fetech_array() in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:52:51 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:52:51 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_fetech_array() in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:52:51 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:52:51 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_fetech_array() in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:53:01 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:53:01 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_fetech_array() in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:53:02 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:53:02 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_fetech_array() in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:54:50 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:54:50 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:55:25 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:55:25 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_fetech_array() in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:55:26 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:55:26 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_fetech_array() in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:55:42 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:55:42 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 29
+[12-Jan-2017 13:55:42 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:55:42 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:55:43 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:55:43 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 29
+[12-Jan-2017 13:55:43 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:55:43 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:56:51 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:56:51 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 29
+[12-Jan-2017 13:56:51 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:56:51 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:57:04 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:57:04 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:57:04 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:57:04 Europe/Berlin] PHP Notice:  Array to string conversion in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 13:57:06 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:57:06 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:57:06 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:57:06 Europe/Berlin] PHP Notice:  Array to string conversion in D:\xampp\htdocs\crud\application\views\produk\index.php on line 15
+[12-Jan-2017 13:57:18 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:57:18 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:57:18 Europe/Berlin] PHP Notice:  Undefined index: nama_produk in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 13:57:18 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:57:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:57:19 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:57:19 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:57:19 Europe/Berlin] PHP Notice:  Undefined index: nama_produk in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 13:57:19 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:57:19 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:58:12 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:58:12 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:58:12 Europe/Berlin] PHP Notice:  Undefined index: nama_produk in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 13:58:12 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:58:12 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:58:28 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:58:28 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:58:28 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:58:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:59:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:59:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:59:45 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:59:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 13:59:46 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 13:59:46 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 13:59:46 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 13:59:46 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:00:01 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:00:01 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:00:01 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:00:01 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:00:36 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:00:36 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 14:00:36 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:00:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:00:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:00:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 14:00:45 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:00:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:01:05 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:01:05 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 14:01:05 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:01:05 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:01:41 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:01:41 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 14:01:41 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:01:41 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:01:42 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:01:42 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 8
+[12-Jan-2017 14:01:42 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:01:42 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:04:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:04:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:04:45 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:04:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:04:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:04:45 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:04:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:05:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:05:38 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:05:38 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:38 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:38 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:05:38 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:05:39 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:05:39 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:05:39 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:39 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:39 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:39 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:05:39 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:05:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:05:44 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:05:44 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:44 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:44 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:44 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:05:44 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:05:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:07:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:07:01 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:07:01 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:07:01 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:01 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:01 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:01 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:07:01 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:07:11 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:07:11 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:07:11 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:11 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:11 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 9
+[12-Jan-2017 14:07:11 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:07:11 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:09:03 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:09:03 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:09:03 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:09:03 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:09:04 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:09:04 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:09:04 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:09:04 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:09:18 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:09:18 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:09:18 Europe/Berlin] PHP Notice:  Array to string conversion in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:09:18 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:09:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:09:28 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:09:28 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:09:28 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:09:28 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:09:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:09:49 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:09:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:09:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:09:50 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:09:50 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:09:50 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:09:50 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:09:54 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:09:54 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:09:54 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:09:54 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:09:55 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:09:55 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:09:55 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:09:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:09:59 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:09:59 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:09:59 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:09:59 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:10:04 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:10:04 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:10:04 Europe/Berlin] PHP Notice:  Undefined offset: 4 in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:10:04 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:10:04 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:10:16 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:10:16 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:10:16 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:10:16 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:10:16 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:10:16 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:10:16 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:10:16 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:10:40 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:10:40 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:10:40 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:10:40 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:10:40 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:10:40 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:10:40 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:11:24 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:11:24 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:11:24 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:11:24 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:11:24 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:11:24 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:11:24 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:11:25 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:12:24 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:12:24 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:12:24 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:12:24 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:12:24 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:12:24 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:12:24 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:13:35 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 14:13:35 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 23
+[12-Jan-2017 14:13:35 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:13:35 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:13:35 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:13:36 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 14:13:36 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 23
+[12-Jan-2017 14:13:36 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:13:36 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:13:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:13:37 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 14:13:37 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 23
+[12-Jan-2017 14:13:37 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:13:37 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:13:37 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:13:48 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 14:13:48 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 23
+[12-Jan-2017 14:13:48 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:13:48 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:13:48 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 23
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 23
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 23
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:13:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:13:58 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 18
+[12-Jan-2017 14:13:58 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 23
+[12-Jan-2017 14:13:58 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:13:58 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:13:58 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:14:12 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:14:12 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 7
+[12-Jan-2017 14:14:12 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:14:12 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:14:13 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:14:13 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 7
+[12-Jan-2017 14:14:13 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:14:13 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:14:14 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 11
+[12-Jan-2017 14:14:14 Europe/Berlin] PHP Notice:  Undefined variable: data in D:\xampp\htdocs\crud\application\controllers\ProdukController.php on line 7
+[12-Jan-2017 14:14:14 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:14:14 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:14:36 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:14:36 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:14:36 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:14:36 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:14:36 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:14:36 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:14:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Notice:  Undefined property: ProdukModel::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:14:37 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:14:46 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:14:46 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:14:46 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:14:46 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:15:25 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:15:25 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:15:25 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:15:25 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:15:37 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:15:37 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:15:37 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:15:37 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:15:37 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:15:37 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:15:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:15:38 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:15:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:15:38 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:15:38 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:15:38 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:16:42 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:16:42 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:16:42 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:16:42 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:16:42 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:16:42 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:18:22 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:18:22 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:18:22 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:18:22 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:18:22 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:18:22 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:18:23 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:18:23 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:18:23 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:18:23 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:18:23 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:18:23 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:19:07 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:19:07 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:19:07 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:19:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:20:10 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:20:10 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:20:10 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:20:10 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:20:33 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:20:33 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:20:33 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:20:33 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:20:33 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:20:33 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:20:49 Europe/Berlin] PHP Fatal error:  Undefined class constant '_dbHandle' in D:\xampp\htdocs\crud\application\models\produk.php on line 5
+[12-Jan-2017 14:20:50 Europe/Berlin] PHP Fatal error:  Undefined class constant '_dbHandle' in D:\xampp\htdocs\crud\application\models\produk.php on line 5
+[12-Jan-2017 14:21:03 Europe/Berlin] PHP Fatal error:  Access to undeclared static property: Model::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 5
+[12-Jan-2017 14:21:04 Europe/Berlin] PHP Fatal error:  Access to undeclared static property: Model::$_dbHandle in D:\xampp\htdocs\crud\application\models\produk.php on line 5
+[12-Jan-2017 14:21:18 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:21:18 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:21:18 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:21:18 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:21:18 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:21:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
+[12-Jan-2017 14:21:19 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\library\model.class.php on line 17
+[12-Jan-2017 14:21:19 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\library\model.class.php on line 22
+[12-Jan-2017 14:21:19 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:21:19 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in D:\xampp\htdocs\crud\application\models\produk.php on line 10
+[12-Jan-2017 14:21:19 Europe/Berlin] PHP Notice:  Undefined property: View::$isRender in D:\xampp\htdocs\crud\library\view.class.php on line 23
+[12-Jan-2017 14:21:19 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\crud\application\views\produk\index.php on line 16
